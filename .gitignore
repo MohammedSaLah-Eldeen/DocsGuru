@@ -5,6 +5,7 @@ tools
 ### Doc files ###
 *docs
 docs*
+stored_docs.json
 
 ### Flask ###
 instance/*
@@ -264,3 +265,5 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+__pycache__
