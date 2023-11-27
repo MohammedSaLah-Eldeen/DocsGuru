@@ -38,7 +38,7 @@ $ streamlit run app.py
 ```
 
 ## How to use it?
-you'll need to create a `.env` file to store your OpenAI API key, as this models uses `gpt-3.5-turbo` as its engine.
+you'll need to create a `.env` file to store your OpenAI API key, as this models uses `gpt-3.5-turbo` as its engine. <br>
 just add your key like this.
 ```bash
 OPENAI_API_KEY="Here goes your api key"
