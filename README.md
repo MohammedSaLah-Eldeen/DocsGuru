@@ -1,6 +1,6 @@
 <br>
 
-<img src="demo/logo.png" alt="DocsGuru logo">
+<img src="demo/logo.png" alt="DocsGuru logo" style="width: 250px;">
 
 # Welcome to DocsGuru 🤖👋
 
