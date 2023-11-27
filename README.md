@@ -38,8 +38,8 @@ $ streamlit run app.py
 ```
 
 ## How to use it?
-you'll need to create a `.env` file to store your OpenAI API key, as this models uses `gpt-3.5-turbo` as its engine. <br>
-just add your key like this.
+you'll need to create a `.env` file to store your OpenAI API key, because **DocsGuru** uses `gpt-3.5-turbo` as its engine. <br>
+just add your key like this in the `.env`.
 ```bash
 OPENAI_API_KEY="Here goes your api key"
 ```
