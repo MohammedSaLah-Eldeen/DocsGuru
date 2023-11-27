@@ -15,7 +15,7 @@ from agents.core import chat, format_sources_string
 
 # Application Start
 # 0.55, 0.1, 0.35
-st.image("docsguru.jpg")
+st.image("logo.jpg")
 docs_selection, or_word, docs_new = st.columns([0.6, 0.2, 1], gap="medium")
 
 with docs_selection:

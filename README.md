@@ -1,6 +1,6 @@
 <br>
 
-<img src="demo/docsguru.png" alt="DocsGuru logo">
+<img src="demo/logo.png" alt="DocsGuru logo">
 
 # Welcome to DocsGuru 🤖👋
 
